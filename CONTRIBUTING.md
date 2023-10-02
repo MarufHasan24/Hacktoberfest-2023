@@ -19,7 +19,7 @@ git clone https://github.com/heysaiyad/Hacktoberfest-2023.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2022
+cd Hacktoberfest2023-DSA
 ```
 
 - Create a new Branch
